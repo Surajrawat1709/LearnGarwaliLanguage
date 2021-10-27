@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Garwali- My Language</string>
+    <string name="learn_garwali_language">Learn Garwali Language</string>
+    <string name="numbers">Numbers</string>
+    <string name="family_members">Family Members</string>
+    <string name="colours">Colours</string>
+    <string name="phrases">Phrases</string>
+    <string name="title_activity_phrases">PhrasesActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="garhwali">GARHWALI</string>
+    <string name="my">MY</string>
+    <string name="language">LANGUAGE</string>
+    <string name="feel_proud_of_your_language">FEEL PROUD OF YOUR LANGUAGE</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+
+    <string name="action_settings">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_intro">ScrollingActivity</string>
+    <string name="history">
+The earliest form of Garhwali can be traced back to 10th century during the middle of
+        the course of development of the indo Aryan languages in India when there were
+        numerous Prakrits (closely related literary languages) and one such ‘Khasas’ Prakrit
+        went on and developed into Garhwali or Gadwahi. Various seals, inscriptions, copper
+        plates and temple stones possessing royal orders and grants have been found with
+        writings in Garhwali language. For example, the temple grant inscriptions by King
+        Jagatpal in Devprayag have been found and can be dated back to 1335 AD. Up until
+        the 17th century Garhwal region was a sovereign ruled by various Garhwali kings who
+        made it an official language of their kingdom.
+
+    </string>
+    <string name="an_endangered_dialect_according_to_unesco">An Endangered Language according to UNESCO</string>
+    <string name="according">According to the recent UNESCO’s report provided by Atlas of the world’s language
+        in danger, showcases that Garhwali language is in the unsafe category along with
+        quickly becoming extinct. There are several reasons as to why this is happening,
+        where one of the prime reasons is that there are more than 2.5 million migrants
+        from Uttarakhand in their nearby cities. With time the people on the hills are
+        also speaking in Hindi more than in Garhwali since it is the most common way of
+        communicating to each other putting it in a verge of extinction. The people have
+        lost touch with their roots, since it is looked down on by the people in the developed
+        parts of the country. The worst part is that there are no efforts or active being made
+        by the people or political leaders for the conservation of this now almost extinct
+        language.With shrinking usage of indigenous languages of Uttarakhand, threat of
+        extinction lurks over them. Major regional languages of Uttarakhand include Kumaoni, Garhwali.
+According to estimates, till last century over 80% of the populace of the
+        state used to speak these languages, which has now reduced to 40-50%,
+        mostly in remote areas among indigenous communities.
+Historians, linguists and sociologists point out that loss of
+        language is not just the language lost but the entire
+        culture and tradition associated with the language disappears with time.</string>
+
+    <string name="issues_regarding_garhwali_language">Issues Regarding Garhwali Language:</string>
+    <string name="the">Large scale migration of the population to cities and towns due to lack of opportunities.
+Minimal use of Garhwali for communication social as well as official.
+Hindi language being used for everyday conversation within families.
+Lack of support from the government.
+Rapidly shrinking interest shown towards it by the people themselves</string>
+    <string name="official">This Indo Aryan Language contains many prakrits from which the Khas Prakrit is considered as the source and origin of Garhwali language. In 10th century, this language earliest form was traced. Many writings on copper plates, inscriptional matters and temples stones all were surveyed. These evidences became the proof of evolution of Garhwali language and therefore this language became rich in literature. From 18th century onwards the literary aspect of this idiom start flourishing and therefore later on this language became the official language of the Indian state of Uttarkhand.
+        In addition this languge belongs to Indo European language family.</string>
+    <string name="origin">Garhwali language is an Indo Aryan Language which belongs to Northern Zone. It is also considered as a Central Pahari language which is initially and chiefly spoken by the people of Garhwal who reside in north western Garhwal area of the Indian state of Uttarkhand. This language is also be in the right place of Indo European Language family which further consists some sub groups such as Indo Aryan, Indo Iranian, Northern, Pahari, Garhwali and Central Pahari. Moreover this language has many regional dialects which all are conversed in different regions of state of Uttarkhand. Furthermore the script used in jotting down this language is Devanagri script. This language also inhabits official status and is therefore regarded as official language of Uttarkhand. In addition this language is considered as 325 identified idiom of India along with it is widely spoken by number of people living in Pauri, Garhwal, Tehri Garhwal, Chamoli, Haridwar, Dehradun and Uttarkashi which all are districts of Uttarkhand. Additionally this idiom is widely spoken in many other cities of India such as Delhi, Punjab, Haryana, Uttar Pradesh, Himachal Pradesh and Bihar. As per the estimation it is found that there are numbers of migrants in Lakhs which inhabits in Delhi. Also it is investigated that now day this language is shrinking. UNESCO also denies this idiom and claims it as the unsafe category and it calls for more effort and privilege.
+        This language spoken by the people can also converse well even in Hindi idiom which is too an official language.</string>
+    <string name="grammar">This Indo Aryan idiom shares its grammar with its own languages such as Rajasthani, Hindi, Gujarati and Kashmiri. Moreover it even shares some of its grammar with Pahari languages such as Nepali and Kumauni. Furthermore this language includes some peculiarities in grammar which are evolved from Khasas which is an ancient language. In addition this language has verb substantive which is developed from root ach as in case of Kashmiri and Rajasthani language happens. Additionally several words and phrases in Garhwali language are influenced from Sanskrit language. In addition this language has relic of Khasas verbal communication which is somewhat related to Kashmiri language. Also this language shortens the long vowel and modifies it by addition of next syllable. Even this language is rich in literature and also well has indigenous</string>
+    <string name="literature">Garhwali language is rich in literature. It includes many books, novels, plays and short stories. Moreover this language is considered as the official language of Garhwal Kingdom. Many of the scripts and literature of Garhwali language is written in Sanskrit form. Furthermore this idiom has several prominent writers and creators which have done a remarkable work in writing novels, books, poems and plays. The names of some of the writers are, Atmaram Gairola, Satyasharan Raturi, Sadanand Kukreti, Dr, Shivanand Nautiyal, Lokesh Nawani and Premlal Bhatt.</string>
+    <string name="media">This ethno Linguistic Indo Aryan Language group primarily resides in Himalayas of Garhwal. The people or even the roots which reside in Garhwal region are known as Garhwali. Moreover this region contains many forms of dialects and follows Devanagri script of writing. Furthermore the culture of this region is heavily influenced by number of traditions and customs. In addition the people of this district are hard working and therefore they have indulged themselves in field of agriculture, defence industry and tourism. Additionally this region Garhwal includes three castes which are Garhwali Rajput, Garhwali Brahmin and Shilpkaar. Also this language has played a vital role in media. Many popular songs, videos and even movies can be seen in Garhwali language.</string>
+    <string name="origin12">Origin</string>
+    <string name="developments32">Developments</string>
+    <string name="grammar23">Grammar</string>
+    <string name="literature23">Literature</string>
+    <string name="garhwali_people_and_media32">Garhwali People and Media</string>
+
+</resources>

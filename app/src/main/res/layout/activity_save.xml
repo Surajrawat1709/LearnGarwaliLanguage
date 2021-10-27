@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_margin="5dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="@string/an_endangered_dialect_according_to_unesco"
+            android:textSize="35sp"
+            android:textStyle="bold"
+            android:background="@color/indigo"
+            android:textColor="@color/white"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="@string/according"
+            android:textSize="20sp"
+            android:lineSpacingExtra="8dp"
+            android:textColor="@color/white"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="@string/issues_regarding_garhwali_language"
+            android:textSize="35sp"
+            android:textStyle="bold"
+            android:background="@color/indigo"
+            android:textColor="@color/white"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="@string/the"
+            android:textSize="20sp"
+            android:lineSpacingExtra="8dp"
+            android:textColor="@color/white"/>
+    </LinearLayout>
+</ScrollView>
