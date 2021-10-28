@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "888022810793",
+    "project_id": "garhwali-12ee1",
+    "storage_bucket": "garhwali-12ee1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888022810793:android:aa9bc87aa0afabccb9e9b8",
+        "android_client_info": {
+          "package_name": "suraj.appsforlife.garwali_mylanguage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888022810793-dv8ntc4o236ammr3vd7gfeo9c0j58d0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7MzNLtjPFEbnjZS5N41SJLVQJXNoaPVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888022810793-dv8ntc4o236ammr3vd7gfeo9c0j58d0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

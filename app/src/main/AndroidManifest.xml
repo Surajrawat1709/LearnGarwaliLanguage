@@ -9,7 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.GarwaliMyLanguage">
-        <activity android:name=".Animals"></activity>
+        <activity android:name=".LoginActivity"></activity>
+        <activity android:name=".RegisterActivity" />
+        <activity android:name=".Animals" />
         <activity android:name=".save" />
         <activity android:name=".intro" />
         <activity android:name=".FamilyActivity" />

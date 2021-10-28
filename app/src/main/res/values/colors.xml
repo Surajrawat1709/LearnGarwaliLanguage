@@ -2,9 +2,15 @@
 <resources>
 
 
-    <color name="colorPrimary">#393939</color>
-    <color name="colorPrimaryDark">#2f2f2f</color>
+    <color name="colorPrimary">#09324b</color>
+    <color name="colorPrimaryDark">#09324b</color>
     <color name="colorAccent">#D81B60</color>
+
+
+
+
+    <color name="black_overlay">#66000000</color>
+    <color name="endcolor">#16222a</color>
 
     <color name="blank">#0000</color>
 
@@ -33,6 +39,5 @@
     <color name="bluegray">#607D8B</color>
 
 
-    <color name="black_overlay">#66000000</color>
-    <color name="endcolor">#16222a</color>
+
 </resources>
